@@ -72,7 +72,7 @@ This project presents a comprehensive Sales Data Analysis for AtliQ Hardware Com
 
 For any inquiries or further information, please contact me at:
 - **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/jyothi-santala/)
 
 ---
 
