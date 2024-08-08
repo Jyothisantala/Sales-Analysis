@@ -60,11 +60,11 @@ This project presents a comprehensive Sales Data Analysis for AtliQ Hardware Com
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/AtliQ-Hardware-Sales-Analysis.git
+   git clone https://github.com/Jyothisantala/Sales-Analysis.git
    ```
 2. **Open the project**: Navigate to the project directory.
    ```bash
-   cd AtliQ-Hardware-Sales-Analysis
+   cd Sales-Analysis
    ```
 3. **Explore the analysis**: Open the PowerBI dashboard link to explore the visualizations and insights.
 
